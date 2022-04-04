@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+.container{
+    max-width: 1110px;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    padding: auto;
+    background: url(https://thumbs.dreamstime.com/b/%D1%84%D0%BE%D0%BD-%D0%BA%D0%B8%D1%80%D0%BF%D0%B8%D1%87%D0%BD%D0%BE%D0%B9-%D1%81%D1%82%D0%B5%D0%BD%D1%8B-%D0%B8-%D0%BD%D0%B5%D0%BE%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D1%81%D0%B2%D0%B5%D1%82%D0%B0-%D0%BB%D1%83%D1%87%D0%B8-%D1%81%D0%B2%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D0%B8%D1%80%D0%BF%D0%B8%D1%87%D0%BD%D1%8B%D0%B5-211376300.jpg) no-repeat center / cover
+}
+.title{
+    font-size: 70px;
+    color: #3a0d24;
+    transition: 0.5s;
+}
+.title:hover{
+    color: brown;
+}
+.text{
+    font-size: 18px;
+    color: #000000;
+    transition: 0.5s
+}
+.text:hover{
+    color: brown;
+}
+.menu__img{
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    border: 2px solid #7525a3ca;
+    border-radius: 8px;
+    transition: 0.5s;
+}
+.menu__img:hover{
+    border: 3px solid  red
+}
+
+    
